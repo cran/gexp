@@ -1,11 +1,12 @@
 Package: gexp
 Title: Generator of Experiments
-Version: 0.1-4
-Date: 2019-04-13
+Version: 1.0-0
+Date: 2019-06-14
 Author: Ivan Bezerra Allaman <ivanalaman@gmail.com>  and
-        JosÈ Cl·udio Faria <joseclaudio.faria@gmail.com>
+        Jos√© Cl√°udio Faria <joseclaudio.faria@gmail.com>
 Maintainer: Ivan Bezerra Allaman <ivanalaman@gmail.com>
-Depends: R (>= 3.5.0), mvtnorm, tcltk, jpeg, png
+Depends: R (>= 3.5.0)
+Imports: mvtnorm, tcltk, jpeg, png
 Description: Generates experiments - simulating structured or experimental data as: 
              completely randomized design, randomized block design, latin square design, 
              factorial and split-plot experiments (Ferreira, 2008, ISBN:8587692526; 
@@ -17,6 +18,6 @@ License: GPL (>= 2)
 URL: https://github.com/ivanalaman/gexp
 Encoding: latin1
 NeedsCompilation: no
-Packaged: 2019-04-14 01:46:17 UTC; ivan
+Packaged: 2019-06-14 11:24:09 UTC; ivan
 Repository: CRAN
-Date/Publication: 2019-04-14 11:32:39 UTC
+Date/Publication: 2019-06-14 11:40:12 UTC

@@ -1,7 +1,11 @@
-\name{gerexp-internal}
-\title{Internal gerexp functions}
+\name{gexp-internal}
+\title{Internal gexp functions}
 \alias{latin}
 \alias{mgsub}
-\description{Internal gerexp functions.}
+\alias{makeContrasts}
+\alias{makeInteraction}
+\alias{makeTreatments}
+\alias{makeXBeta}
+\description{Internal gexp functions.}
 \details{These are not to be called by the user and are undocumented.}
 \keyword{internal}
