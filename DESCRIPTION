@@ -1,9 +1,9 @@
 Package: gexp
 Title: Generator of Experiments
-Version: 1.0-1
-Date: 2020-04-01
+Version: 1.0-21
+Date: 2023-06-19
 Author: Ivan Bezerra Allaman <ivanalaman@gmail.com>  and
-        José Cláudio Faria <joseclaudio.faria@gmail.com>
+        Jose Claudio Faria <joseclaudio.faria@gmail.com>
 Maintainer: Ivan Bezerra Allaman <ivanalaman@gmail.com>
 Depends: R (>= 3.5.0)
 Imports: mvtnorm, tcltk, jpeg, png
@@ -16,8 +16,8 @@ Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 License: GPL (>= 2)
 URL: https://github.com/ivanalaman/gexp
-Encoding: latin1
+Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2020-04-01 22:29:27 UTC; ivan
+Packaged: 2023-06-20 12:22:57 UTC; iballaman
 Repository: CRAN
-Date/Publication: 2020-04-02 05:00:02 UTC
+Date/Publication: 2023-06-21 20:30:06 UTC
